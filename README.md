@@ -1,8 +1,9 @@
-# Imagine
+# Senza Now
 
-A demo that shows how to connect a mobile phone using a QR code, capture voice input using speech recognition, send commands to the TV using Socket.IO, and search for images using OpenAI.
+A demo that shows how to see what products are available in a video you are watching. You can press the "Find Products" button to scan the video / frame for products featured in the video that you are interested in. Alternatively you can connect a mobile phone using a QR code, capture voice input using speech recognition, send commands to the TV using Socket.IO, and search for images using OpenAI.
 
-Scan the QR code on your phone, tap the microphone icon, say what you're looking for, and then in a few moments you'll see it appear on the TV.
+Press a Find Products button and then in a few moments you'll see the product information and link to purchase appear on the TV.
+Scan the QR code on your phone, tap the microphone icon, say what product you're looking for, and then in a few moments you'll see the product information and link to purchase appear on the TV.
 
 ### OpenAI
 
